@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670577419 source:d:\work\instructor\ds\intake 43\os - assiut\day4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1670577591 d:\work\instructor\ds\intake 43\os - assiut\day4\include\tree.h
+
+1671705110 source:f:\iti\ds\day4\assigment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1671705187 f:\iti\ds\day4\assigment\include\tree.h
+

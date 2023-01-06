@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669389616 source:f:\iti\ds\day3\assigmen\bubblesort with linked list\day3_task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BinarySearch.h"
+
+1669390296 f:\iti\ds\day3\assigmen\bubblesort with linked list\day3_task1\include\binarysearch.h
+	<stdio.h>
+	<stdlib.h>
+
